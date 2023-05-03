@@ -39,3 +39,5 @@ string starts with given letter.
        - Prog1 - Using java collections implement comparator and comparable interface to sort an arrayList of type Laptop 
        - Prog2 - Using java collections implement comparator and comparable interface to sort an arrayList of type Employee 
 17. - implementation of toString
+- Practice - Creating a Simple Calculator using Swing.
+- Remaining Program are in Java-Lab_Program repo.
