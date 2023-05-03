@@ -39,5 +39,10 @@ string starts with given letter.
        - Prog1 - Using java collections implement comparator and comparable interface to sort an arrayList of type Laptop 
        - Prog2 - Using java collections implement comparator and comparable interface to sort an arrayList of type Employee 
 17. - implementation of toString
+18. - comparator and method overloading
+19. - Object Object Intraction
+20.    - Addition of complex numbers
+       - prime number checker
+21. - Inheritance
 - Practice - Creating a Simple Calculator using Swing.
 - Remaining Program are in Java-Lab_Program repo.
